@@ -1,0 +1,9 @@
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\bin\Release\Sin.exe.config
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\bin\Release\Sin.exe
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\bin\Release\Sin.pdb
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Release\Sin.csprojAssemblyReference.cache
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Release\Sin.Sin.resources
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Release\Sin.Properties.Resources.resources
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Release\Sin.csproj.GenerateResource.cache
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Release\Sin.exe
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Release\Sin.pdb

@@ -1,0 +1,36 @@
+c:\users\renato\documents\visual studio 2012\Projects\Sin\Sin\bin\Debug\Sin.exe.config
+c:\users\renato\documents\visual studio 2012\Projects\Sin\Sin\bin\Debug\Sin.exe
+c:\users\renato\documents\visual studio 2012\Projects\Sin\Sin\bin\Debug\Sin.pdb
+c:\users\renato\documents\visual studio 2012\Projects\Sin\Sin\obj\Debug\Sin.csprojResolveAssemblyReference.cache
+c:\users\renato\documents\visual studio 2012\Projects\Sin\Sin\obj\Debug\Sin.Sin.resources
+c:\users\renato\documents\visual studio 2012\Projects\Sin\Sin\obj\Debug\Sin.Properties.Resources.resources
+c:\users\renato\documents\visual studio 2012\Projects\Sin\Sin\obj\Debug\Sin.csproj.GenerateResource.Cache
+c:\users\renato\documents\visual studio 2012\Projects\Sin\Sin\obj\Debug\Sin.exe
+c:\users\renato\documents\visual studio 2012\Projects\Sin\Sin\obj\Debug\Sin.pdb
+C:\Users\Aluno\Downloads\Sin\Sin\bin\Debug\Sin.exe.config
+C:\Users\Aluno\Downloads\Sin\Sin\obj\Debug\Sin.exe
+C:\Users\Aluno\Downloads\Sin\Sin\obj\Debug\Sin.pdb
+C:\Users\Aluno\Downloads\Sin\Sin\bin\Debug\Sin.exe
+C:\Users\Aluno\Downloads\Sin\Sin\bin\Debug\Sin.pdb
+C:\Users\Aluno\Downloads\Sin\Sin\obj\Debug\Sin.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\Sin\Sin\obj\Debug\Sin.Sin.resources
+C:\Users\Aluno\Downloads\Sin\Sin\obj\Debug\Sin.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Sin\Sin\obj\Debug\Sin.csproj.GenerateResource.Cache
+G:\GoogleDrive\Others\[Projetos]\SinProjeto\Sin\bin\Debug\Sin.exe.config
+G:\GoogleDrive\Others\[Projetos]\SinProjeto\Sin\bin\Debug\Sin.exe
+G:\GoogleDrive\Others\[Projetos]\SinProjeto\Sin\bin\Debug\Sin.pdb
+G:\GoogleDrive\Others\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.csprojAssemblyReference.cache
+G:\GoogleDrive\Others\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.Sin.resources
+G:\GoogleDrive\Others\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.Properties.Resources.resources
+G:\GoogleDrive\Others\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.csproj.GenerateResource.cache
+G:\GoogleDrive\Others\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.exe
+G:\GoogleDrive\Others\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.pdb
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\bin\Debug\Sin.exe.config
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\bin\Debug\Sin.exe
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\bin\Debug\Sin.pdb
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.csprojAssemblyReference.cache
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.Sin.resources
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.Properties.Resources.resources
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.csproj.GenerateResource.cache
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.exe
+G:\GoogleDrive\[Programação]\[Projetos]\SinProjeto\Sin\obj\Debug\Sin.pdb
