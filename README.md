@@ -7,8 +7,9 @@ Tecnologia:
 
 Entradas: 
   - Teclado
-  - Arquivos no formato srt.
   - Mouse
+  - Arquivos no formato srt.
+
 
 Plataforma: 
   - Desktop
