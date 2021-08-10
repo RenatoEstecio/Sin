@@ -6,6 +6,9 @@ Sobre: corrige a sincronização de uma legenda, de acordo com o tempo em segund
 
 Entrada: teclado/arquivos no formato srt.
 
-Plataforma: Windows
+Plataforma: Desktop
 
-Requisitos: .NET Framework
+Requisitos: 
+  - Windows 64bits
+  - NET Framework
+  - Visual Studio Community 2019
