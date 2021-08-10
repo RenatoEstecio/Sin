@@ -2,10 +2,13 @@
 
 Sobre: corrige a sincronização de uma legenda, de acordo com o tempo em segundos fornecido pelo usuário.
 
-Entrada: teclado/arquivos no formato srt.
-
 Tecnologia: 
   - C#
+
+Entradas: 
+  - Teclado
+  - Arquivos no formato srt.
+  - Mouse
 
 Plataforma: 
   - Desktop
