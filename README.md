@@ -18,3 +18,5 @@ Requisitos:
   - Windows 64bits
   - NET Framework
   - Visual Studio Community 2019
+
+![ ](https://raw.githubusercontent.com/RenatoEstecio/Sin/main/Sin/Sin/Sin/ScreenShot.jpg)
