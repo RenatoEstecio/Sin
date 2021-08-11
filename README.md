@@ -20,4 +20,4 @@ Requisitos:
 
 Exemplo:
 
-![ ](https://raw.githubusercontent.com/RenatoEstecio/Sin/main/Sin/Sin/Sin/ScreenShot.jpg)
+![ ](https://raw.githubusercontent.com/RenatoEstecio/Sin/main/Sin/Sin%5BCodigo%5D/Sin/ScreenShot.jpg)
