@@ -10,7 +10,6 @@ Entradas:
   - Mouse
   - Arquivos no formato srt.
 
-
 Plataforma: 
   - Desktop
 
@@ -18,5 +17,7 @@ Requisitos:
   - Windows 64bits
   - NET Framework
   - Visual Studio Community 2019
+
+Exemplo:
 
 ![ ](https://raw.githubusercontent.com/RenatoEstecio/Sin/main/Sin/Sin/Sin/ScreenShot.jpg)
