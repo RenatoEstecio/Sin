@@ -1,6 +1,6 @@
 # Sin
 
-Sobre: corrige a sincronização de uma legenda, de acordo com o tempo em segundos fornecido pelo usuário.
+Sobre: corrige a sincronização de uma legenda de acordo com o tempo em segundos fornecido pelo usuário.
 
 Tecnologia: 
   - C#
